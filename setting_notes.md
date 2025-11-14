@@ -56,3 +56,29 @@ Die Geschenisse mit Tiamat haben den Gott der Riesen erzürnt und bewagen in daz
 und in der Ordnung aufzusteigen oder sie Gar zu dominieren. Wärend die Sturm Riesen es immer schwerer haben ihr altes und Zerstreutes Reich unter kontrolle zu behalten
 
 Diese unruhen sind aber auch nicht ungeachted geblieben bei den alten Feinden der Riesen, den **Drachen**
+
+### Der Adel
+
+#### König David (Hekaton)
+
+Der König der Riesen er regiert die Riesen und war vor dem Zerbrechen der Wahrscheinlich mäctigste der Sturm Riesen. Er nutzte seine macht und die des [Lindwurm-Schädeltron](https://www.dndbeyond.com/magic-items/5526-wyrmskull-throne) um die nidrigeren Riesen, auch nach den Zerbrechen, in Schach zu halten. Doch als seine Frau Starb, zog er los um ihre mörder zur rechenschaft zu ziehen und ist seitdem nicht mehr gesehen worden.
+
+#### Königin Atalja
+
+Eine gutherzige Riesin welche eine schwäche für Goym hatte und dafür sorgte das ihr Mann der König, strikt gegen einen Feldzug gegen jene ist und das Verlorene Reich Israelia nicht wieder Aufleben lassen will. 
+Jedoch ist sie nur wenige Monate vor begin der Gesichte in einem Komplott ihrer beider Ältesten Töchter getötet worden. Ihr mann ist nun auf der Suche nach ihren Möredern und wird aber genau von ihnen Manipuliert und eine sinnlose Schnitzeljagd nach den Angeblichen mördern gesendet
+
+#### Prinzesin Netan (Mirrian)
+
+Aufbrausende verzogene Persöhlichkeit. Sie möchte die Macht des Trones für sich slebst und ist davon überzeugt das es ihr recht sei, doch das ist ihrer jüngsten Schwester Vorbehalten. Mit der anleitung von Iymrith plant sie einen Komplott um sich den Tron unter den Nagel zu Reisen welcher mit der Ermordung ihrer mutter startete. Sollte sie den Tron erhalten wird sie einen Feldzug gegen die Goym starten um Israelia wieder auferstehen zu lassen.
+
+#### Prinzesin Jahu (Nym)
+
+Kalt und Calculierend das gegenteil ihrer älteren Schwester. Sie unterstüzt ihre Ältere Schwester auf den Tron zu Stehlen. Sie geht davon aus das Ihre schwester durch ihre aufbrausende und verzogene art sich viele Feinde machen wird. Was Jahu die Perfekte möglichkeit bietet um sich slebst den Tron zu Schnappen.
+
+
+#### Trohnfolgerin Prinzesin Dogh'nt
+
+Ist nach dem verschwienden Ihres Vaters and der Macht. Diese wird aber nicht von allen Riesen fürsten Gleichermaßen respektiert, manche Riesen fürsten haben sich bereits auf den weg gemmacht um die Gunst ihres Gottes auf ihre eigene weiße zu sammeln. In abwesenheit ihres Vaters fällt die macht des [Riesen Zepters](https://www.dndbeyond.com/magic-items/5517-korolnor-scepter) und des [Trones](https://www.dndbeyond.com/magic-items/5526-wyrmskull-throne) in ihre hände. Doch auch mit dieser grßen macht in ihren händen fühlt sie sich verloren. Sie weiß über die ungunst und wut Ihrer elteren Schwestern bezüglich ihrer ernennung zum Tronfolger Bescheid, kann sich aber nicht vorstellen das sie und Iymrith für den Todt ihrer Mutter verandwortlich sind. Sie ist wie ihre Mutter sympatisch in hinsicht zu Goym eingestellt und würde alzu gerne kleine Abenteurer mit der Suche nach ihrem Vater Beauftragen
+
+
