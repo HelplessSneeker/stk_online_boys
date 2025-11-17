@@ -57,9 +57,9 @@ und in der Ordnung aufzusteigen oder sie Gar zu dominieren. Wärend die Sturm Ri
 
 Diese unruhen sind aber auch nicht ungeachted geblieben bei den alten Feinden der Riesen, den **Drachen**
 
-### Der Adel
+### Die Königsfamilie
 
-#### König David (Hekaton)
+#### König Solomon (Hekaton)
 
 Der König der Riesen er regiert die Riesen und war vor dem Zerbrechen der Wahrscheinlich mäctigste der Sturm Riesen. Er nutzte seine macht und die des [Lindwurm-Schädeltron](https://www.dndbeyond.com/magic-items/5526-wyrmskull-throne) um die nidrigeren Riesen, auch nach den Zerbrechen, in Schach zu halten. Doch als seine Frau Starb, zog er los um ihre mörder zur rechenschaft zu ziehen und ist seitdem nicht mehr gesehen worden.
 
@@ -70,15 +70,31 @@ Jedoch ist sie nur wenige Monate vor begin der Gesichte in einem Komplott ihrer 
 
 #### Prinzesin Netan (Mirrian)
 
-Aufbrausende verzogene Persöhlichkeit. Sie möchte die Macht des Trones für sich slebst und ist davon überzeugt das es ihr recht sei, doch das ist ihrer jüngsten Schwester Vorbehalten. Mit der anleitung von Iymrith plant sie einen Komplott um sich den Tron unter den Nagel zu Reisen welcher mit der Ermordung ihrer mutter startete. Sollte sie den Tron erhalten wird sie einen Feldzug gegen die Goym starten um Israelia wieder auferstehen zu lassen.
+Aufbrausende verzogene Persöhlichkeit. Sie möchte die Macht des Trones für sich slebst und ist davon überzeugt das es ihr recht sei, doch das ist ihrer jüngsten Schwester Vorbehalten. Mit der anleitung von Judea plant sie einen Komplott um sich den Tron unter den Nagel zu Reisen welcher mit der Ermordung ihrer mutter startete. Sollte sie den Tron erhalten wird sie einen Feldzug gegen die Goym starten um Israelia wieder auferstehen zu lassen.
 
 #### Prinzesin Jahu (Nym)
 
 Kalt und Calculierend das gegenteil ihrer älteren Schwester. Sie unterstüzt ihre Ältere Schwester auf den Tron zu Stehlen. Sie geht davon aus das Ihre schwester durch ihre aufbrausende und verzogene art sich viele Feinde machen wird. Was Jahu die Perfekte möglichkeit bietet um sich slebst den Tron zu Schnappen.
 
 
-#### Trohnfolgerin Prinzesin Dogh'nt
+#### Trohnfolgerin Prinzesin Do'nt
 
-Ist nach dem verschwienden Ihres Vaters and der Macht. Diese wird aber nicht von allen Riesen fürsten Gleichermaßen respektiert, manche Riesen fürsten haben sich bereits auf den weg gemmacht um die Gunst ihres Gottes auf ihre eigene weiße zu sammeln. In abwesenheit ihres Vaters fällt die macht des [Riesen Zepters](https://www.dndbeyond.com/magic-items/5517-korolnor-scepter) und des [Trones](https://www.dndbeyond.com/magic-items/5526-wyrmskull-throne) in ihre hände. Doch auch mit dieser grßen macht in ihren händen fühlt sie sich verloren. Sie weiß über die ungunst und wut Ihrer elteren Schwestern bezüglich ihrer ernennung zum Tronfolger Bescheid, kann sich aber nicht vorstellen das sie und Iymrith für den Todt ihrer Mutter verandwortlich sind. Sie ist wie ihre Mutter sympatisch in hinsicht zu Goym eingestellt und würde alzu gerne kleine Abenteurer mit der Suche nach ihrem Vater Beauftragen
+Ist nach dem verschwienden Ihres Vaters and der Macht. Diese wird aber nicht von allen Riesen fürsten Gleichermaßen respektiert, manche Riesen fürsten haben sich bereits auf den weg gemmacht um die Gunst ihres Gottes auf ihre eigene weiße zu sammeln. In abwesenheit ihres Vaters fällt die macht des [Riesen Zepters](https://www.dndbeyond.com/magic-items/5517-korolnor-scepter) und des [Trones](https://www.dndbeyond.com/magic-items/5526-wyrmskull-throne) in ihre hände. Doch auch mit dieser grßen macht in ihren händen fühlt sie sich verloren. Sie weiß über die ungunst und wut Ihrer elteren Schwestern bezüglich ihrer ernennung zum Tronfolger Bescheid, kann sich aber nicht vorstellen das sie und Judea für den Todt ihrer Mutter verandwortlich sind. Sie ist wie ihre Mutter sympatisch in hinsicht zu Goym eingestellt und würde alzu gerne kleine Abenteurer mit der Suche nach ihrem Vater Beauftragen
 
 
+
+#### Judea (Iymrith) 
+
+Judea ist eine uralte Drachin welche Die form einer Sturmriesein annehmen kann. 
+In dieser form hat sie Den hof der Riesen unterwandert und streut umnut zwischen do'nt und ihren schwestern mit dem Ziel die Riesen und Goym in Krieg zu stürzen
+um den Lindwurm-Schädeltron unter ihre klauen zu bekommen. Sie hat die Beiden älteren Schwestern in Kontakt mit Slarkrethel einem Legänderen Kraken welcher die Endlose see heimsucht. Die representanten sind teil der geheimmoperation namens Kraken geselschaft. Mit ihrer anleitung und der der älteren Schwestern konnten sie die Königin ermorden und es der Lords Alliance anhängen.
+
+
+### Riesen fürsten
+
+Die Abwesenheit von könig Solomon haben 5 Riesen fürsten den Weg in die Welt Hinausgewagt um die Ordnung durch ihre taten neu Zu Schreiben, jeder von ihnen Hofft die Sturm Riesen auf der Stpitze zu ersetzen
+
+
+#### Chief Nincado
+
+Nincado ist ein Hügel Riesen Häuptling 
