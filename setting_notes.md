@@ -95,6 +95,17 @@ um den Lindwurm-Schädeltron unter ihre klauen zu bekommen. Sie hat die Beiden �
 Die Abwesenheit von könig Solomon haben 5 Riesen fürsten den Weg in die Welt Hinausgewagt um die Ordnung durch ihre taten neu Zu Schreiben, jeder von ihnen Hofft die Sturm Riesen auf der Stpitze zu ersetzen
 
 
-#### Chief Nincado
+#### Chief Nincado (Chief Guh)
 
-Nincado ist ein Hügel Riesen Häuptling 
+Nincado ist ein Hügel Riesen Häuptling welche im Dessarin Tal einen Enormen Holzhof gebaut hat. Sie glaubt wenn sie Der Größte Riese der Welt währe würde sie die Gunst ihres Gottes bekommen und die Stpitze der neuen Ordnung sein. Um Dieses Ziel zu erreichen hat sie ihre Ehegatten angeordnet ihr alles esbares in der Region zu Bringen. Ihre Gier ist doch nicht so leicht zu sättigen und nachdem Sie alle Vhie - und Obstbauern in der Umbgebung überfallen lassen hat richtet sich Ihr auge nun auf die Umligenden Siedlungen
+
+
+#### Baron Ev br'n (Thane Kayalithica)
+
+Nachdem ev aus dem Hof der Riesen flo sie zu ihrer Schlucht Heiligtum Todtstein Cleft wo sie Meditierete und auf ein Göttliches zeichen wartete. Nach wochen kam ihr die Erläuchtung, die Goym haben den Traum Korrumpiert indem sie ihre Dreckigen Siedlungen auf den Knochen Israelia errichteten. Nun ist es an der Zeit für sie und ihre verbündeten die Erde von den Schmutz der Goym zu befreien. Von Todtstein ziehen sie los um jegliche bauten von Goym zu zerstören und diese Taten für ihren Gott in die Wände zu Schnitzen
+
+
+#### Jarl Lisander (Storvald)
+
+Lisander ein wilder un abenteuerlustiger Riesen Jarl reiste zu dem Kältesten teil der See des Bewegenden Eises um Svardborg, die uiralte heimnat seiner Vorfahren zurückzugewinnen. Er wahr erfolgreich und Konnte sogar zwei Weiße Drachen unterjochen indem er ihre Eier Geißel nahm. Mit ihrer hilfe konnte er ein Paar Riesen schiffe aus dem eis befreien und Plündert nun Damit kleinere Schiffe und Küsten gebiete. Seine Nächstes ziel ist es jetzt das Eis das Niemals Schmilzt in die Finger zu bekommen, ein Mächtiger frost überzogener goldener Ring welcher die Ozeane Gefrieren und die Welt mit schneebedecken kann. Goym kennen dieses Relict als Ring des Winters. Der letze bekannte träger des Rings war der Harper Artus Cimber. Lisander will in Finden um sich die Spitze der neuen Ordnung zu sichern. Um Cimber zu finden plant er einen Tropfen blut welches er von einem Zhentarim Zauberer bekommen hat zu Benutzen. Es führt jedoch nicht zu cimber sondern zu seinen Blutsverwanten den sie sind näher. zu ihrem pech wissen die Meisten auch nichts vom Ring des Winters
+
