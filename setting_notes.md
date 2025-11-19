@@ -118,3 +118,17 @@ Der Feuerriesen Graf glaubt er könnte König werden wenn er den Alten Feind der
 #### Gräfin Esdeth (Countess Sansuri)
 
 Wie so manch anderer Himmels Riese zog auch sie sich nach dem Zerbrechen in ihr Wolkenschloss zurück auf der Suche nach Israelianischen Artefacten um die Götter zu beeindrucken. doch Esdeth sucht nach noch mehr sie will eine längst vergessene quelle Draconischer Magie finden um ihre feinde zu vernichten und den Platz an der Spitze den Himmels Riesen zu sichern. Die suche verläuft aber nicht all zu gut. Frustriet hat sie mithilfe Mächtiger Magie einen Bronze drachen namens Felgolos gefangen genommen Und foltert ihn für informationen. Sein Schreckliches Gebrüll kann Kilometer weit um Esdeths schloss gehört werden
+
+
+### Fractionen des Nordens
+
+#### Die Hafner
+
+Eine Gruppe von Magiern und Spionen welche unterschwelig gegen den misbrauch von Macht, Magisch oder andersweitig, arbeiten. Alleine oder in kleinen Zellen sammeln sie Informationen in ganz Palestena erläutern die Politische dynamic in jeder Region und Helfen den Schwachen, Armen und Unterdrückten. Sie arbeiten Meist im geheimen doch Agieren auch offen wenn es keine andere Möglichkeit gibt. Sie waren ein esentieller bestantteil bei der Verbannung Tiamats und beenden der Schreckensheerschaft der Drachen. Jetzt zeigen sich die Riesen als neue Bedrohung und die Hafner wissen noch nicht warum. Sie sind sehr gewillt Abenteurer anzuheuern um ihnen gegen die Riesen zu helfen
+
+
+#### Hamas (Lords Alliance)
+
+Einige Siedlungen im Norden haben sich zu einer Alliance zusammengeschlossen. Sie ist recht waklig doch mit der Aufgabe beschäftigt bedrohungen ihrer Sichererheit und ihres Reichtums im Vorhinein zu eliminieren. Die Anfürer sind meist umstritten, während ihre Agenten Ruhm und Ehre führ ihre sich und ihre Lords Haben wollen. Ein Schlüssel Representant ist unter anderen der Besonnene Lord Ismail Haniyeh (Lord Dagult Neverember) von Neverwinter, Prachtvolle Lady Dschamila Schanti (Lady Laeral Silverhand) von Waterdeep, Taern Hornblade von Silverymoon, and the Willensstarke Königin Dagnabbet von Mithral Hall.
+Sie waren eine der Fraktionen die Mithilfe von abenteurern Tiamat besiegte sie werden sich jetzt nicht von Riesen vernichten Lassen. Sie bieten Abenteurern 200 bis 500 Gold für jeden Riesen Kopf der Ihnen gebracht wird
+Gerüchten zufolge hat die Hamas für das verschwienden des Riesen Königs verantwortlich. Die fÜhrer haben noch nicths davon mitbekommen, sollte es ihre Ohren erreichen werden sie es öffentlich abstreiten aber insgeheim eine Untersuchung starten um zu sehen ob es wirklich ihr verschulden war
