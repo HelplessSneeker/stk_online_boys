@@ -80,7 +80,7 @@ Kalt und Calculierend das gegenteil ihrer älteren Schwester. Sie unterstüzt ih
 #### Trohnfolgerin Prinzesin Do'nt
 
 Ist nach dem verschwienden Ihres Vaters and der Macht. Diese wird aber nicht von allen Riesen fürsten Gleichermaßen respektiert, manche Riesen fürsten haben sich bereits auf den weg gemmacht um die Gunst ihres Gottes auf ihre eigene weiße zu sammeln. In abwesenheit ihres Vaters fällt die macht des [Riesen Zepters](https://www.dndbeyond.com/magic-items/5517-korolnor-scepter) und des [Trones](https://www.dndbeyond.com/magic-items/5526-wyrmskull-throne) in ihre hände. Doch auch mit dieser grßen macht in ihren händen fühlt sie sich verloren. Sie weiß über die ungunst und wut Ihrer elteren Schwestern bezüglich ihrer ernennung zum Tronfolger Bescheid, kann sich aber nicht vorstellen das sie und Judea für den Todt ihrer Mutter verandwortlich sind. Sie ist wie ihre Mutter sympatisch in hinsicht zu Goym eingestellt und würde alzu gerne kleine Abenteurer mit der Suche nach ihrem Vater Beauftragen
-
+:
 
 
 #### Judea (Iymrith) 
@@ -95,9 +95,9 @@ um den Lindwurm-Schädeltron unter ihre klauen zu bekommen. Sie hat die Beiden �
 Die Abwesenheit von könig Solomon haben 5 Riesen fürsten den Weg in die Welt Hinausgewagt um die Ordnung durch ihre taten neu Zu Schreiben, jeder von ihnen Hofft die Sturm Riesen auf der Stpitze zu ersetzen
 
 
-#### Chief Nincado (Chief Guh)
+#### Chief Big Nom (Chief Guh)
 
-Nincado ist ein Hügel Riesen Häuptling welche im Dessarin Tal einen Enormen Holzhof gebaut hat. Sie glaubt wenn sie Der Größte Riese der Welt währe würde sie die Gunst ihres Gottes bekommen und die Stpitze der neuen Ordnung sein. Um Dieses Ziel zu erreichen hat sie ihre Ehegatten angeordnet ihr alles esbares in der Region zu Bringen. Ihre Gier ist doch nicht so leicht zu sättigen und nachdem Sie alle Vhie - und Obstbauern in der Umbgebung überfallen lassen hat richtet sich Ihr auge nun auf die Umligenden Siedlungen
+Big Nom ist ein Hügel Riesen Häuptling welche im Dessarin Tal einen Enormen Holzhof gebaut hat. Sie glaubt wenn sie Der Größte Riese der Welt währe würde sie die Gunst ihres Gottes bekommen und die Stpitze der neuen Ordnung sein. Um Dieses Ziel zu erreichen hat sie ihre Ehegatten angeordnet ihr alles esbares in der Region zu Bringen. Ihre Gier ist doch nicht so leicht zu sättigen und nachdem Sie alle Vhie - und Obstbauern in der Umbgebung überfallen lassen hat richtet sich Ihr auge nun auf die Umligenden Siedlungen
 
 
 #### Baron Ev br'n (Thane Kayalithica)
@@ -127,8 +127,35 @@ Wie so manch anderer Himmels Riese zog auch sie sich nach dem Zerbrechen in ihr 
 Eine Gruppe von Magiern und Spionen welche unterschwelig gegen den misbrauch von Macht, Magisch oder andersweitig, arbeiten. Alleine oder in kleinen Zellen sammeln sie Informationen in ganz Palestena erläutern die Politische dynamic in jeder Region und Helfen den Schwachen, Armen und Unterdrückten. Sie arbeiten Meist im geheimen doch Agieren auch offen wenn es keine andere Möglichkeit gibt. Sie waren ein esentieller bestantteil bei der Verbannung Tiamats und beenden der Schreckensheerschaft der Drachen. Jetzt zeigen sich die Riesen als neue Bedrohung und die Hafner wissen noch nicht warum. Sie sind sehr gewillt Abenteurer anzuheuern um ihnen gegen die Riesen zu helfen
 
 
-#### Hamas (Lords Alliance)
+#### Samah (Lords Alliance)
 
 Einige Siedlungen im Norden haben sich zu einer Alliance zusammengeschlossen. Sie ist recht waklig doch mit der Aufgabe beschäftigt bedrohungen ihrer Sichererheit und ihres Reichtums im Vorhinein zu eliminieren. Die Anfürer sind meist umstritten, während ihre Agenten Ruhm und Ehre führ ihre sich und ihre Lords Haben wollen. Ein Schlüssel Representant ist unter anderen der Besonnene Lord Ismail Haniyeh (Lord Dagult Neverember) von Neverwinter, Prachtvolle Lady Dschamila Schanti (Lady Laeral Silverhand) von Waterdeep, Taern Hornblade von Silverymoon, and the Willensstarke Königin Dagnabbet von Mithral Hall.
 Sie waren eine der Fraktionen die Mithilfe von abenteurern Tiamat besiegte sie werden sich jetzt nicht von Riesen vernichten Lassen. Sie bieten Abenteurern 200 bis 500 Gold für jeden Riesen Kopf der Ihnen gebracht wird
 Gerüchten zufolge hat die Hamas für das verschwienden des Riesen Königs verantwortlich. Die fÜhrer haben noch nicths davon mitbekommen, sollte es ihre Ohren erreichen werden sie es öffentlich abstreiten aber insgeheim eine Untersuchung starten um zu sehen ob es wirklich ihr verschulden war
+
+#### dassom (Zhentarim)
+
+Ein Unerbährmliches schatten Netzwerk welches ihren einfluss im Norden Erhöen möchte. Ihre mitliegern wollen Geld und Persöhnliche Macht kultivieren, auch wenn sie Der Öffentlichkeit Harmloser gegenübertreten und die Besten Sölder anbieten die man für geld kaufen kann. Sie haben spione in jeder relevanten Siedlung des nordens und wollen nicht das ihr Reichtum und Wohlstand von herumwütenden Riesen zerstört wird. Sie wollen die Riesen verstähen und erhoffen sich einen Profit aus der situation schlagen zu können
+
+
+#### Barkroot Society (Emerald Enclave)
+
+Gegründet von Hans Barkroot ist diese grouppe ein Schwach verbündeter haufen Überlebenskünstlern, welche die Natürliche ordnung aufrecht erhalten wollen. Sie helfen anderen die Wildniss zu Überleben wo sie Können.
+Als die Riesen angriffe immer mehr wurden wurde ihnen klar das etwas nicht stimmt und die Zerstörung, welche die Riesen verursachten beschwor ihre Wut und bringt sie Langsam aber sicher zum handeln
+
+
+#### Knappen Orden (The Order of the Gauntlet)
+
+Ritter Orden der für das Gute einsteht, aber ein bisschen eine zu inige beziehung zu ihren knappen hat. besteht aus Clericern Paladinen und Knappen welche zu diesen werden Wollen
+
+
+#### Hentai Society (Kraken Society)
+
+Eine Gruppe von Spionen Schmugglern Sklaventreibern und Assasinen. Nur ihr Anfürer weiß das ihr Günder in wirklichkeit Davyjone ist, ein magie nutzender Krake welcher in den Tiefen der Trackless Sea lebt
+Kraken sind vergessene shöpfungen von göttern welche sie zurück gelassen haben nach einem Cosmischen krieg. Das Ende dieses Krieges Zeichnete den Anfang der Zivilisation, Davyjone sehnt sich wieder mit seinem schöpfer zusammen zu sein und Breitet deshalb seine Tentackel über ganz anitselap aus
+Vor hunderten von Jahren fangen eine Gruppe von Menschen an in bei den Purple Rocks anzubeten. Menschen die auf diesen Inseln leben opfern ihre Kinder der see im zuge eines Rituals and Davyjone. Diese geopferten Kinder kehren jahre Später völlig ausgewachsen, wenn auch entstellt, wieder zurück. 
+When sie das ende ihrer Natürlichen lebenszeit erreichen kehren sie wieder in die See zu ihren Schrecklichen meister zurück. Die Bewohner der Purple Islands leben aber ansonsten ein Ruhiges leben und sind sich nicht über das Ausmas der Hentai Society am Festland bewusst
+Die Hentai Society ist auch nicht auf den Purple Rocks Enstanden sonder in den Stätden des Nordens. Die Psychischen fähigkeiten des Krakens sind so stark das er sogar creaturen Tief im Festalnd erreichen Kann. So konnte er Viele aussenseiter und Halunken für sich und seine Organisation gewinnen. Die meisten mitglieder sind schon von Haus aus Böse.
+Davyjone bereits alt als die Drachen und Riesen ihren Konflikt hatten vor 40 000 Jahren, und sein Ziel ist es ihn wieder auffachen zu lassen. Als Judea auf ihn zukamm half er ihr nur alzu gerne und nahm den Riesen König gefangen nachdem er seine Frau tötete, Judea möchte ihn am Leben behalten um ihn als mögliche geisel zu verwenden sollten ihre pläne Schiefgehen
+Ein Seefahrender Zauberer der Hentai Society nammens Chris Chan hat Sein Schiff sonychu in ein Schwebendes Gefängniss für könig david verwandelt
+
